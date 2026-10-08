@@ -1,0 +1,5 @@
+Generated with the built-in image_gen tool.
+
+Use case: stylized-concept. Asset type: original artwork for a fantasy trading card, portrait. A magnificent white dragon with pearl white armored scales, elegant long horns, wings spread, curled dynamic body, breathing luminous golden yellow fire. Cinematic intricate premium fantasy painting, cool silver and charcoal storm background, gold embers, dramatic rim light. Full dragon head clearly visible upper center, body across center. No text, no letters, no borders, no UI, no watermark.
+
+Final artwork is embedded as a PNG data URI in index.html.
